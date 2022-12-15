@@ -1,0 +1,25 @@
+.main_back {
+    background-image: url('main_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.table-responsive {
+    background-color: transparent white;
+}
+
+h2, th, td, li {
+    font-weight: bolder;
+}
+
+h2.common_cities {
+    font-weight: bolder;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.822);
+    color: white;
+}
+#footer_table {
+    background-color: rgba(0, 0, 0, 0.822);
+}
